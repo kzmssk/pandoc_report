@@ -1,6 +1,6 @@
 ---
 title: Title of report
-author: Tanuki Kitune
+author: Tanuki Kitsune
 date: 2017.1.1
 ...
 
@@ -22,11 +22,11 @@ You can use tex reference like Figure \ref{fig:png_sample} and \ref{fig:pdf_samp
 
 ## Citation
 
-You can cite an article like: [@Krizhevsky2012]
+You can cite an article like [@Krizhevsky2012]
 
 ## First sub-section
 
-You can put list of items using itemize:
+You can put a list of items using itemize:
 
 * Monday
 * Tuesday
@@ -50,7 +50,7 @@ Or, numbering:
 * __bold2__
 
 
-## Quatation
+## Quotation
 
 > Quotation
 

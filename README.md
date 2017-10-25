@@ -1,4 +1,4 @@
-# Pandoc Rreport Example
+# Pandoc Report Example
 
 Example of pandoc's conversion of markdown file to PDF via latex.
 
@@ -19,7 +19,8 @@ Example of pandoc's conversion of markdown file to PDF via latex.
 
 ## Bibliography
 
-1. Add a bibtex record to `mybib.bib`
+1. Add a BibTeX record to `mybib.bib`
 2. Add the citation tag in markdown file: e.g. `[@foo2017]`.
 
 Citation style is defined in `style/ieee-with-url.csl`. 
+
